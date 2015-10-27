@@ -1,0 +1,6 @@
+c:\users\alex\documents\visual studio 2012\Projects\Mixing\Mixing\bin\Debug\Mixing.exe.config
+c:\users\alex\documents\visual studio 2012\Projects\Mixing\Mixing\bin\Debug\Mixing.exe
+c:\users\alex\documents\visual studio 2012\Projects\Mixing\Mixing\bin\Debug\Mixing.pdb
+c:\users\alex\documents\visual studio 2012\Projects\Mixing\Mixing\obj\Debug\Mixing.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2012\Projects\Mixing\Mixing\obj\Debug\Mixing.exe
+c:\users\alex\documents\visual studio 2012\Projects\Mixing\Mixing\obj\Debug\Mixing.pdb
